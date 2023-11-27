@@ -3,7 +3,7 @@
 
 ### Overview
 
-This repository contains the code for Speech Command Recognition using Hidden Markov Models (HMM) as part of the assignment for the course EE679. The work has been done by Harshvardhan (20D070035).
+This repository contains the code for Speech Command Recognition using Hidden Markov Models (HMM).
 
 **Key Features:**
 
